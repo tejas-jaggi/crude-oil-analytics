@@ -9,9 +9,10 @@
 
 A complete end-to-end **Data Warehousing & Business Intelligence** project analyzing **56 years of monthly Brent crude oil prices** across 676 data points (January 1970 – March 2026).
 
-Built as part of the DWBI course at the **University of Illinois Urbana-Champaign (UIUC)**, this project demonstrates a full production-grade BI workflow — from raw CSV extraction through Power Query transformation, DAX semantic modeling, and interactive dashboard design in Power BI Desktop.
+Built as part of the DWBI course at the **University of Illinois Urbana-Champaign (UIUC)**, this project demonstrates a full production-grade BI workflow: 
+from raw CSV extraction through Power Query transformation, DAX semantic modeling, and interactive dashboard design in Power BI Desktop.
 
-The four dashboards are designed so that **any viewer — regardless of energy market knowledge — can immediately understand what happened, when, and why** just by reading the visuals.
+The four dashboards are designed so that **any viewer, regardless of energy market knowledge can immediately understand what happened, when, and why** just by reading the visuals.
 
 ---
 
