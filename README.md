@@ -1,7 +1,7 @@
 # 📊 Global Crude Oil Price Analytics (1970–2026)
 ### End-to-End Power BI Business Intelligence Project
 
-![Dashboard Overview](assets/crude_dashboard_1.png)
+![Dashboard Overview](assets/crude_oil_preview.png)
 
 ---
 
