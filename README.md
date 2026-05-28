@@ -1,7 +1,7 @@
 # 📊 Global Crude Oil Price Analytics (1970–2026)
 ### End-to-End Power BI Business Intelligence Project
 
-![Dashboard Overview](assets/crude_oil_preview.png)
+![Dashboard Overview](crude_oil_preview.png)
 
 ---
 
@@ -94,7 +94,7 @@ Seasonal Index    = DIVIDE([Avg Price], [All Time Avg])
 ## 📊 The Four Dashboards
 
 ### Dashboard 1 — Price History (1970–2026)
-![Dashboard 1](assets/crude_dashboard_1.png)
+![Dashboard 1](crude_dashboard_1.png)
 
 The full cinematic view of crude oil history designed so anyone can understand it without prior knowledge.
 
@@ -108,7 +108,7 @@ The full cinematic view of crude oil history designed so anyone can understand i
 ---
 
 ### Dashboard 2 — Volatility & Shocks
-![Dashboard 2](assets/crude_dashboard_2.png)
+![Dashboard 2](crude_dashboard_2.png)
 
 Reveals the emotional drama of oil markets — not just price levels, but how violently they moved.
 
@@ -124,7 +124,7 @@ Reveals the emotional drama of oil markets — not just price levels, but how vi
 ---
 
 ### Dashboard 3 — Decade DNA
-![Dashboard 3](assets/crude_dashboard_3.png)
+![Dashboard 3](crude_dashboard_3.png)
 
 Each decade had a completely different personality. This dashboard reveals it.
 
@@ -140,7 +140,7 @@ Each decade had a completely different personality. This dashboard reveals it.
 ---
 
 ### Dashboard 4 — Seasonal Pulse
-![Dashboard 4](assets/crude_dashboard_4.png)
+![Dashboard 4](crude_dashboard_4.png)
 
 Does crude oil follow a seasonal rhythm? This dashboard answers it definitively.
 
