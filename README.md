@@ -23,11 +23,11 @@ crude-oil-analytics/
 ├── Crude_Oil_Analytics.pbix        ← Full Power BI project file (open in Power BI Desktop)
 ├── fuel_prices_1970_2026.csv       ← Raw source dataset (Kaggle)
 ├── README.md
-└── assets/
-    ├── crude_dashboard_1.png       ← Dashboard 1: Price History (1970–2026)
-    ├── crude_dashboard_2.png       ← Dashboard 2: Volatility & Shocks
-    ├── crude_dashboard_3.png       ← Dashboard 3: Decade DNA
-    └── crude_dashboard_4.png       ← Dashboard 4: Seasonal Pulse
+├── crude_dashboard_1.png       ← Dashboard 1: Price History (1970–2026)
+├── crude_dashboard_2.png       ← Dashboard 2: Volatility & Shocks
+├── crude_dashboard_3.png       ← Dashboard 3: Decade DNA
+├── crude_dashboard_4.png       ← Dashboard 4: Seasonal Pulse
+    
 ```
 
 ---
